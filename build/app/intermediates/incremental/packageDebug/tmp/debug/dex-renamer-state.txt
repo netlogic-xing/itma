@@ -1,0 +1,4 @@
+#Sat May 18 10:59:56 CST 2019
+base.0=/home/xingcy/FlutterProjects/hospital/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
